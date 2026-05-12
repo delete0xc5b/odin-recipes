@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Garamond, "Times New Roman", Times, serif;
+    width: 600px;
+    margin: 0 auto;
+    background-color: blanchedalmond;
+    font-size: 22px;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 40px;
+}
+
+h2 {
+    margin: 20px 0;
+}
+
+a {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol {
+    margin-left: 20.63px;
+    margin-bottom: 40px;
+}
+
+input {
+    margin-right: 10px;
+}
+
+.homepage-nav {
+    margin-top: 40px;
+    list-style: none;
+    text-align: center;
+}
+
+.homepage-recipes {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.go-home {
+    margin-bottom: 20px;
+}
